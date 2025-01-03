@@ -5,10 +5,8 @@ from scipy.integrate import odeint
 import plotly.express as px
 
 st.set_page_config(
-   page_title="C'est le mauvais choix"
+   page_title="C'est le bon choix"
 )
 
-st.title("Tu ne veux vraiment pas ? 😭")
-st.link_button("Si si je suis désolé ne pleure pas", "https://adelemarcon.github.io/DM6adele.html",type="primary",use_container_width=True)
-st.link_button("Non", "https://mauvaischoix.streamlit.app/",type="primary",use_container_width=True)
-st.image('https://github.com/adelemarcon/NON/blob/main/tortuenon.png?raw=true')
+st.title("Ouiiiiiiiii, j'ai trop hâte d'être avec toi ❤️")
+st.image('https://github.com/adelemarcon/OUI/blob/main/af32fea5baa9c4e17403843761660f97.png?raw=true')
